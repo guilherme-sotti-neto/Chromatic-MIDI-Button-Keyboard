@@ -7,8 +7,8 @@
 // ==========================================
 
 // Define a quantidade de linhas e colunas da matriz de botões.
-const int NUM_ROWS = 3;  // Teremos 3 linhas elétricas.
-const int NUM_COLS = 17; // Teremos 17 colunas elétricas.
+const int NUM_ROWS = 3;  // 3 linhas elétricas.
+const int NUM_COLS = 17; // 17 colunas elétricas.
 
 // Calcula o número máximo de botões que a matriz suporta (3 linhas * 17 colunas = 51 teclas).
 const int NUM_KEYS = 51; 
@@ -162,12 +162,13 @@ void scanMatrix() {
               
               if (keyIndex == BTN_OCTAVE_DOWN) {
                 // Diminui 12 semitons a cada pressão. 
-                // Colocamos um limite de -48 (4 oitavas) para o usuário não "se perder" no silêncio.
+                // Limite de -36 (3 oitavas) para o usuário não "se perder" no silêncio.
                 octaveShift -= 12;
                 if (octaveShift < -36) octaveShift = -36; 
               } 
               else if (keyIndex == BTN_OCTAVE_UP) {
                 // Aumenta 12 semitons a cada pressão.
+                // Limite de 24 (2 oitavas)
                 octaveShift += 12;
                 if (octaveShift > 24) octaveShift = 24;
               } 
