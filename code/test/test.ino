@@ -169,7 +169,7 @@ void scanMatrix() {
               else if (keyIndex == BTN_OCTAVE_UP) {
                 // Aumenta 12 semitons a cada pressão.
                 octaveShift += 12;
-                if (octaveShift > 36) octaveShift = 36;
+                if (octaveShift > 24) octaveShift = 24;
               } 
               else if (keyIndex == BTN_SYSTEM) {
                 // Alterna entre C-System e B-System

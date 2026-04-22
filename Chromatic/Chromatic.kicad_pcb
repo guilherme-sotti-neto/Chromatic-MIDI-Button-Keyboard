@@ -161,10 +161,13 @@
 	(net 81 "Net-(D_R2C15-A)")
 	(net 82 "Net-(D_R0C16-A)")
 	(net 83 "Net-(D_R2C16-A)")
+	(net 84 "Net-(D_R0C0-K)")
+	(net 85 "Net-(D_R1C0-K)")
+	(net 86 "Net-(D_R2C0-K)")
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "046cf0c0-0ce9-4239-9848-fff32bb6f716")
-		(at 49.71 239.835 -90)
+		(at 38 239.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C8"
@@ -845,7 +848,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "086a6e6e-ea0f-4721-862e-f3fdca2a0337")
-		(at 87.71 391.835 -90)
+		(at 76 391.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C16"
@@ -1526,7 +1529,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "091e2dbc-c0b1-4da0-8d57-e7de721cd5eb")
-		(at 125.71 144.835 -90)
+		(at 114 144.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C3"
@@ -2207,7 +2210,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0972f48d-91e9-42a7-ae0a-ba1e723ef57d")
-		(at 87.71 220.835 -90)
+		(at 76 220.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C7"
@@ -2888,7 +2891,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0cabce6f-25c7-4607-9918-391ae860e45f")
-		(at 87.71 163.835 -90)
+		(at 76 163.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C4"
@@ -3569,7 +3572,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0d8ddca1-2d9c-47d2-b505-584d92747bd8")
-		(at 68.71 97.335 -90)
+		(at 57 97.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C1"
@@ -4250,7 +4253,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0e229aca-df38-47a8-98f6-788c4fe77eb7")
-		(at 106.71 192.335 -90)
+		(at 95 192.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C5"
@@ -4931,7 +4934,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0fe51d77-8ef4-490f-8e67-0554121c8516")
-		(at 30.71 249.335 -90)
+		(at 19 249.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C9"
@@ -5612,7 +5615,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0fed1f27-1a69-4cb7-886b-2e977f52cb9f")
-		(at 68.71 249.335 -90)
+		(at 57 249.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C9"
@@ -6293,7 +6296,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "10188e28-5c3f-4830-a91c-dab458c32944")
-		(at 106.71 116.335 -90)
+		(at 95 116.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C1"
@@ -6974,7 +6977,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "104346c3-5b96-4fe0-859b-529db90007df")
-		(at 125.71 163.835 -90)
+		(at 114 163.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C4"
@@ -7655,7 +7658,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "130f8766-f852-4305-a944-ea6432565878")
-		(at 49.71 201.835 -90)
+		(at 38 201.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C6"
@@ -8336,7 +8339,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "1392e4c9-56fd-4cef-b778-36536b9b8d8c")
-		(at 106.71 344.335 -90)
+		(at 95 344.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C13"
@@ -9014,10 +9017,173 @@
 			)
 		)
 	)
+	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(layer "F.Cu")
+		(uuid "1583826e-b0c6-45c3-a213-ef49db83ca6f")
+		(at 28.5 68.71 -90)
+		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
+		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
+		(property "Reference" "R1"
+			(at 2.54 -1.92 90)
+			(layer "F.SilkS")
+			(uuid "60894d93-db83-4a39-94af-aa181fd08dc3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Resistor"
+			(at 2.54 1.92 90)
+			(layer "F.Fab")
+			(uuid "ce586d37-dd12-497b-ae31-798b5132c237")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67ea7920-2ae1-4551-93f0-833c9e8ac681")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffa7cb6b-20e9-4363-a1a0-a4a76e320be5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/0df91ccb-0f5e-4b5c-be63-a53564b2dc4d")
+		(sheetname "/")
+		(sheetfile "Chromatic.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 0.62 0.92)
+			(end 4.46 0.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "db46184b-96aa-4c24-b432-af756cd08678")
+		)
+		(fp_line
+			(start 0.62 -0.92)
+			(end 4.46 -0.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "98f9e998-4c83-40dd-834b-8a07912db25b")
+		)
+		(fp_rect
+			(start -0.95 -1.05)
+			(end 6.03 1.05)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "26faf0af-7f9a-424b-b56d-e2e678027bfa")
+		)
+		(fp_line
+			(start 0 0)
+			(end 0.74 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "723b23fe-f35a-4545-bcf0-63f500a8eb77")
+		)
+		(fp_line
+			(start 5.08 0)
+			(end 4.34 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "36ce5331-bcb3-47ef-a6e5-644c17961652")
+		)
+		(fp_rect
+			(start 0.74 -0.8)
+			(end 4.34 0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "f87cfec9-6c76-431b-af26-2cfc624d35b1")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.54 0 90)
+			(layer "F.Fab")
+			(uuid "bf05e7c7-f569-4682-9725-45766035084b")
+			(effects
+				(font
+					(size 0.72 0.72)
+					(thickness 0.108)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 270)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 22 "Row 0")
+			(pintype "passive")
+			(uuid "a7344ea2-8f1a-46cc-9c75-b282b7af8f81")
+		)
+		(pad "2" thru_hole circle
+			(at 5.08 0 270)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 85 "Net-(D_R1C0-K)")
+			(pintype "passive")
+			(uuid "f493e896-262d-4efa-a4fe-1d9928531d7d")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "1d3fb750-7d7b-4f30-ae3f-ac81fc5bd319")
-		(at 106.71 249.335 -90)
+		(at 95 249.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C8"
@@ -9698,7 +9864,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "1df1503b-91f2-4058-8e5d-3fdcca816613")
-		(at 125.71 201.835 -90)
+		(at 114 201.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C6"
@@ -10379,7 +10545,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "1fbb4576-eec1-4814-981f-9c459eda7d26")
-		(at 87.71 201.835 -90)
+		(at 76 201.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C6"
@@ -11060,7 +11226,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "1fc9308d-4539-4e9f-aacc-3cf925cd4248")
-		(at 125.71 353.835 -90)
+		(at 114 353.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C14"
@@ -11741,7 +11907,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "2255652d-89ef-487d-bcdb-8b014281e3f0")
-		(at 49.71 182.835 -90)
+		(at 38 182.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C5"
@@ -12422,7 +12588,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "242dc753-ab59-4dd8-9b77-438340fcb2a2")
-		(at 49.71 258.835 -90)
+		(at 38 258.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C9"
@@ -13103,7 +13269,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "29cd97ea-424e-4e88-ba77-bee6281f9413")
-		(at 49.71 353.835 -90)
+		(at 38 353.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C14"
@@ -13784,7 +13950,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "2afca9d7-d7da-4fe5-911d-509890926316")
-		(at 30.71 173.335 -90)
+		(at 19 173.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C5"
@@ -14465,7 +14631,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "30cabca5-1352-442a-87f5-463254a69256")
-		(at 87.71 334.835 -90)
+		(at 76 334.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C13"
@@ -15146,7 +15312,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "31776cf7-8006-424f-98c7-50bc8ab2807e")
-		(at 49.71 163.835 -90)
+		(at 38 163.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C4"
@@ -15827,7 +15993,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "3994e2d6-9a50-4740-9168-a36019544100")
-		(at 106.71 287.335 -90)
+		(at 95 287.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C10"
@@ -16508,7 +16674,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4061b739-4054-4869-a5f7-c1f213ebce42")
-		(at 68.71 173.335 -90)
+		(at 57 173.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C5"
@@ -17189,7 +17355,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "409da309-0228-4260-98b3-3c5328e91d4e")
-		(at 68.71 192.335 -90)
+		(at 57 192.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C6"
@@ -17870,7 +18036,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4105379d-cb61-43dc-83b9-f3fd00eb0724")
-		(at 30.71 154.335 -90)
+		(at 19 154.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C4"
@@ -18551,7 +18717,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4184bcb4-4aa8-4443-bdb5-c16ec3ad5303")
-		(at 87.71 182.835 -90)
+		(at 76 182.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C5"
@@ -19232,7 +19398,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "42733a7f-8f8d-46af-be7a-5ff04485ada4")
-		(at 125.71 334.835 -90)
+		(at 114 334.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C13"
@@ -19913,7 +20079,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "436a642c-218a-4f91-a0c1-e9d6d367962d")
-		(at 49.71 296.835 -90)
+		(at 38 296.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C11"
@@ -20594,7 +20760,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "438c7b28-31c5-413c-a244-435c1a9e217e")
-		(at 68.71 306.335 -90)
+		(at 57 306.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C12"
@@ -21275,7 +21441,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "45e86053-e8bc-4e59-b640-47e933e17d8f")
-		(at 68.71 344.335 -90)
+		(at 57 344.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C14"
@@ -21956,7 +22122,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "495cb4d7-5ec9-416c-98e7-aa87d27285a9")
-		(at 68.71 78.335 -90)
+		(at 57 78.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C0"
@@ -22637,7 +22803,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4c914494-17c6-457d-a540-f1c8e60a6383")
-		(at 30.71 382.335 -90)
+		(at 19 382.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C16"
@@ -23318,7 +23484,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "50621f10-3f6c-42b0-8283-88d90b7f59b7")
-		(at 30.71 78.335 -90)
+		(at 19 78.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C0"
@@ -23999,7 +24165,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "51a802a6-a6b4-49b2-8c87-7a5c6d5c8f8c")
-		(at 68.71 230.335 -90)
+		(at 57 230.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C8"
@@ -24680,7 +24846,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5226d1ce-6272-4345-b788-49399022be22")
-		(at 49.71 334.835 -90)
+		(at 38 334.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C13"
@@ -25361,7 +25527,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "536c4ba2-313e-4a5f-9fb0-5be622800d82")
-		(at 125.71 372.835 -90)
+		(at 114 372.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C15"
@@ -26042,7 +26208,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "57748466-79e4-4176-9d87-2c98359eafc5")
-		(at 87.71 125.835 -90)
+		(at 76 125.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C2"
@@ -26723,7 +26889,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5a315615-6128-4b2d-921a-43a08ac245bf")
-		(at 87.71 353.835 -90)
+		(at 76 353.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C14"
@@ -27404,7 +27570,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5c53bf9c-50ad-4ed3-8a63-3358bfba8f32")
-		(at 87.71 106.835 -90)
+		(at 76 106.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C1"
@@ -28085,7 +28251,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5d892c44-0211-4a52-89ca-49eb557267f2")
-		(at 68.71 287.335 -90)
+		(at 57 287.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C11"
@@ -28766,7 +28932,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5e357a48-6e5e-41bf-9f9c-85608f586bc5")
-		(at 125.71 220.835 -90)
+		(at 114 220.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C7"
@@ -29447,7 +29613,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5edf257d-2e14-41fe-9862-91d0f83d9456")
-		(at 125.71 315.835 -90)
+		(at 114 315.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C12"
@@ -30128,7 +30294,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "61d6ab21-8bb4-469e-83b2-2c2d67b416ff")
-		(at 125.71 277.835 -90)
+		(at 114 277.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C10"
@@ -30809,7 +30975,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "643f04bf-0c6b-44ec-bd55-07c63e44ed8e")
-		(at 125.71 106.835 -90)
+		(at 114 106.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C1"
@@ -31490,7 +31656,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "6618674f-e33d-4c5d-94c1-56e199dcbba2")
-		(at 68.71 325.335 -90)
+		(at 57 325.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C13"
@@ -32171,7 +32337,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "6a419fd4-c6ae-4359-b22d-f6d0c11cb1b4")
-		(at 106.71 401.335 -90)
+		(at 95 401.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C16"
@@ -32852,7 +33018,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "6d322e15-f046-4001-92e7-2c0d78a7ea73")
-		(at 30.71 192.335 -90)
+		(at 19 192.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C6"
@@ -33533,7 +33699,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "6fc89de5-f778-4845-8c80-affbe17a97f2")
-		(at 49.71 220.835 -90)
+		(at 38 220.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C7"
@@ -34214,7 +34380,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "755e27b0-7ca2-49fa-add0-b5438eaf7868")
-		(at 106.71 173.335 -90)
+		(at 95 173.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C4"
@@ -34895,7 +35061,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "7b5b7215-aa0c-4fa3-adcf-cb9ca4ccaf94")
-		(at 30.71 344.335 -90)
+		(at 19 344.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C14"
@@ -35576,7 +35742,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "7b8f9231-a003-4cf3-8373-5af022a8d6b2")
-		(at 87.71 239.835 -90)
+		(at 76 239.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C8"
@@ -36257,7 +36423,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "7dea4c0c-ae20-48b7-a292-e50badab95b3")
-		(at 106.71 135.335 -90)
+		(at 95 135.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C2"
@@ -36938,7 +37104,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "80ecc84d-beea-4aaf-bb7b-49fdf8bbf267")
-		(at 125.71 239.835 -90)
+		(at 114 239.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C8"
@@ -37619,7 +37785,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8312ff76-2162-4a7c-b134-2625250418cd")
-		(at 49.71 144.835 -90)
+		(at 38 144.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C3"
@@ -38300,7 +38466,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "88acb26c-82a3-4990-84fc-46343773b00b")
-		(at 106.71 306.335 -90)
+		(at 95 306.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C11"
@@ -38981,7 +39147,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "88e8cb08-73f3-4ed7-b30a-535a32b75c24")
-		(at 106.71 325.335 -90)
+		(at 95 325.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C12"
@@ -39662,7 +39828,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8b9a2a31-79a2-4e16-a569-450c7009e602")
-		(at 68.71 154.335 -90)
+		(at 57 154.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C4"
@@ -40343,7 +40509,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8d68b607-26f9-46a7-8236-80cba673d096")
-		(at 106.71 382.335 -90)
+		(at 95 382.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C15"
@@ -41024,7 +41190,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8e70fe67-3e9f-439b-af13-625f3c13fe83")
-		(at 30.71 268.335 -90)
+		(at 19 268.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C10"
@@ -41705,7 +41871,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "91832fb2-3300-4355-bb13-8e2b5f95818f")
-		(at 49.71 372.835 -90)
+		(at 38 372.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C15"
@@ -42386,7 +42552,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "91eaa5d4-53b4-4d2b-a9b2-63f4f0440c7a")
-		(at 87.71 277.835 -90)
+		(at 76 277.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C10"
@@ -43067,7 +43233,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "970f47c4-cf27-4294-9aa8-3a4b9cc73c8f")
-		(at 49.71 87.835 -90)
+		(at 38 87.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C0"
@@ -43748,7 +43914,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "97adbec8-2c3e-4dd7-b5c5-19de1953970e")
-		(at 87.71 296.835 -90)
+		(at 76 296.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C11"
@@ -44429,7 +44595,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "98977f23-fe8c-4aa2-a028-1de4d00a89d0")
-		(at 87.71 372.835 -90)
+		(at 76 372.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C15"
@@ -45110,7 +45276,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "990d1553-5286-4a61-8dc9-61b38a0d6314")
-		(at 125.71 87.835 -90)
+		(at 114 87.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C0"
@@ -45791,7 +45957,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9c09d6df-912f-4c63-99b9-47e05b0b7006")
-		(at 106.71 230.335 -90)
+		(at 95 230.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C7"
@@ -46472,7 +46638,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9f1fda4c-098e-4487-acc2-3f7c535c7d5b")
-		(at 125.71 258.835 -90)
+		(at 114 258.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C9"
@@ -47153,7 +47319,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9f971ef7-7a92-4344-99fd-93732079c652")
-		(at 49.71 106.835 -90)
+		(at 38 106.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C1"
@@ -47834,7 +48000,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "a150bddb-4f6a-4ef5-8019-df6837809277")
-		(at 30.71 135.335 -90)
+		(at 19 135.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C3"
@@ -48515,7 +48681,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "a67fbb4a-ae5e-4c4c-b8c4-be439acc6979")
-		(at 106.71 154.335 -90)
+		(at 95 154.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C3"
@@ -49196,7 +49362,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "a9970f1d-a541-42a7-a4ba-ffbb5bd8e762")
-		(at 30.71 306.335 -90)
+		(at 19 306.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C12"
@@ -49877,7 +50043,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ad213576-4d23-44f9-8300-49bd56bf6d5e")
-		(at 30.71 97.335 -90)
+		(at 19 97.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C1"
@@ -50558,7 +50724,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ae5e30e9-40a6-4820-8b8a-478ef3d379b8")
-		(at 106.71 211.335 -90)
+		(at 95 211.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C6"
@@ -51239,7 +51405,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "af14c3df-34bd-4089-90a2-d1f8462236d6")
-		(at 49.71 277.835 -90)
+		(at 38 277.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C10"
@@ -51920,7 +52086,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "b10c9e71-66fd-4f23-b61a-4b5629e51f12")
-		(at 125.71 125.835 -90)
+		(at 114 125.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C2"
@@ -52601,7 +52767,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "b118a836-dbc2-405d-8f7f-fcd0c57511eb")
-		(at 87.71 87.835 -90)
+		(at 76 87.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C0"
@@ -53282,7 +53448,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "b1802207-c203-4128-810a-fa36edbc8ac7")
-		(at 87.71 258.835 -90)
+		(at 76 258.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C9"
@@ -53963,7 +54129,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "b6d1bd6d-925e-4ba1-b9fa-5b1ad3fb416a")
-		(at 68.71 135.335 -90)
+		(at 57 135.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C3"
@@ -54644,7 +54810,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "bb690d18-f799-4df0-b8fe-69e1e7a04114")
-		(at 30.71 287.335 -90)
+		(at 19 287.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C11"
@@ -55325,7 +55491,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "c00dbf0f-4e92-4113-8308-c2ff3df68802")
-		(at 68.71 268.335 -90)
+		(at 57 268.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C10"
@@ -56006,7 +56172,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "c2f2e94e-2a87-4d67-8ae7-6a16fc9eda06")
-		(at 106.71 363.335 -90)
+		(at 95 363.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C14"
@@ -56687,7 +56853,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "c4048eaa-7ac6-4e4f-896e-cfab6e3f96a8")
-		(at 125.71 182.835 -90)
+		(at 114 182.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C5"
@@ -57368,7 +57534,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "c897a204-d383-4e71-abcd-446ca0f3a421")
-		(at 49.71 391.835 -90)
+		(at 38 391.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C16"
@@ -58049,7 +58215,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "cb81e509-96ee-4b31-a3b6-47c31d42c9e5")
-		(at 68.71 363.335 -90)
+		(at 57 363.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C15"
@@ -58730,7 +58896,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "cd035e68-2ed7-4251-a6da-3521a948c4d8")
-		(at 49.71 315.835 -90)
+		(at 38 315.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C12"
@@ -59411,7 +59577,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "cddf7bcd-cc8e-4733-9398-91ed692d2c82")
-		(at 30.71 325.335 -90)
+		(at 19 325.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C13"
@@ -60092,7 +60258,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ce45bdde-c723-42e0-a67b-7d4c5c1561a7")
-		(at 87.71 315.835 -90)
+		(at 76 315.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C12"
@@ -60773,7 +60939,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ceed1cc1-8cf3-4262-9ffd-65dec175595c")
-		(at 106.71 97.335 -90)
+		(at 95 97.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C0"
@@ -61454,7 +61620,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d0a98e00-e435-4041-bada-6b60a3aebad8")
-		(at 30.71 211.335 -90)
+		(at 19 211.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C7"
@@ -62132,10 +62298,173 @@
 			)
 		)
 	)
+	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(layer "F.Cu")
+		(uuid "d2b3830e-c360-40d1-91dd-ed745c58a711")
+		(at 9.5 68.71 -90)
+		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
+		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
+		(property "Reference" "R0"
+			(at 2.54 -1.92 90)
+			(layer "F.SilkS")
+			(uuid "1d14113e-dbaa-4728-b09d-eaae08e6466e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Resistor"
+			(at 2.54 1.92 90)
+			(layer "F.Fab")
+			(uuid "d6deb76b-a184-457f-a6f8-b91c499c462c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9d44b63-89a6-4d18-9fe8-aaf06e0d777e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3973bb0-f2e6-495f-abb6-ab53624940ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/1c694a54-4e5e-4484-b23b-fa9a57b72b73")
+		(sheetname "/")
+		(sheetfile "Chromatic.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 0.62 0.92)
+			(end 4.46 0.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d878d294-9e7f-4b2c-808a-32d342031eb8")
+		)
+		(fp_line
+			(start 0.62 -0.92)
+			(end 4.46 -0.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8c91e672-6341-4de9-9cec-7003aa84b6ad")
+		)
+		(fp_rect
+			(start -0.95 -1.05)
+			(end 6.03 1.05)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "2c4ecb7e-dd4c-47e5-a5fa-161976426c80")
+		)
+		(fp_line
+			(start 0 0)
+			(end 0.74 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6e6b6c0c-f197-4128-94f0-96c789305072")
+		)
+		(fp_line
+			(start 5.08 0)
+			(end 4.34 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9af36462-533a-4a13-b8e0-26fa81fb13b0")
+		)
+		(fp_rect
+			(start 0.74 -0.8)
+			(end 4.34 0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "e58e83cd-7ca8-42d8-bf51-9637b83dbe90")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.54 0 90)
+			(layer "F.Fab")
+			(uuid "f55f0c01-b308-434d-96b6-4ab1c1df09e6")
+			(effects
+				(font
+					(size 0.72 0.72)
+					(thickness 0.108)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 270)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 22 "Row 0")
+			(pintype "passive")
+			(uuid "2437bf57-4646-44f5-8ec8-3539601e1185")
+		)
+		(pad "2" thru_hole circle
+			(at 5.08 0 270)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 84 "Net-(D_R0C0-K)")
+			(pintype "passive")
+			(uuid "0f93554e-f92d-45b8-8f06-daf091d7e423")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d2b5a36b-aab4-4e60-8369-55bd05d2116e")
-		(at 125.71 296.835 -90)
+		(at 114 296.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C11"
@@ -62816,7 +63145,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d2e5c48e-5ebe-4473-88e4-4a2f1d8079f2")
-		(at 68.71 116.335 -90)
+		(at 57 116.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C2"
@@ -63497,7 +63826,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d8052180-c8f0-42e9-b9ae-9e65ca7274c2")
-		(at 49.71 125.835 -90)
+		(at 38 125.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_1_R1C2"
@@ -64178,7 +64507,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ddc37fea-9714-4d88-821a-ddfbb021e664")
-		(at 125.71 391.835 -90)
+		(at 114 391.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_5_R2C16"
@@ -64859,7 +65188,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "efb1fe47-189e-4d9d-9fa5-0316bcae46aa")
-		(at 68.71 382.335 -90)
+		(at 57 382.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C16"
@@ -65540,7 +65869,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f051e746-b0c8-43d5-a264-c6cd2af5e3ab")
-		(at 30.71 116.335 -90)
+		(at 19 116.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C2"
@@ -66221,7 +66550,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f4774e65-cb69-4459-98ec-f1fecbdbb430")
-		(at 30.71 363.335 -90)
+		(at 19 363.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C15"
@@ -66902,7 +67231,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f551e37c-d0d5-487a-a19b-92adc636d25d")
-		(at 106.71 268.335 -90)
+		(at 95 268.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_4_R1C9"
@@ -67583,7 +67912,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f8a0f69f-43d1-4e29-b09b-a1e159528cea")
-		(at 87.71 144.835 -90)
+		(at 76 144.71 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_3_R0C3"
@@ -68264,7 +68593,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f9322df2-ad8b-47c3-8a97-bf6d0061960b")
-		(at 68.71 211.335 -90)
+		(at 57 211.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_2_R2C7"
@@ -68945,7 +69274,7 @@
 	(footprint "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "fa99c2ca-98c0-462f-8851-c35ac35a5853")
-		(at 30.71 230.335 -90)
+		(at 19 230.21 -90)
 		(descr "keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW_0_R0C8"
@@ -69626,7 +69955,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "0276320e-248f-42c1-bf6f-1f1c7cc1633f")
-		(at 58.88 144.875)
+		(at 47.17 144.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C3"
@@ -69834,7 +70163,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "ce27297a-e18f-45ef-9e49-5ab8d879ebfa")
@@ -69866,7 +70195,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "06d6aed5-8e4a-4f2a-976f-7e8f9232da1b")
-		(at 59.1275 106.875)
+		(at 47.4175 106.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C1"
@@ -70074,7 +70403,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "74dfb2c4-133b-4203-90a6-883565284036")
@@ -70106,7 +70435,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "084441bd-f2ae-4ba8-922b-1a662ed55e18")
-		(at 59.375 391.875)
+		(at 47.665 391.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C16"
@@ -70314,7 +70643,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "c9c01800-cd48-4c02-9c07-46c5c5ac02e8")
@@ -70346,7 +70675,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "0e2288d1-0028-4265-8012-2515061289cd")
-		(at 21.54 353.875)
+		(at 9.83 353.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C14"
@@ -70554,7 +70883,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "3a8bee8d-cddb-4572-be99-8469a3706b4c")
@@ -70586,7 +70915,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "1c277c87-fb99-4695-ab21-5396661cf5d6")
-		(at 59.1275 258.875)
+		(at 47.4175 258.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C9"
@@ -70794,7 +71123,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "a038f35b-d483-4df3-9973-c468176c236d")
@@ -70826,7 +71155,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "2e616c4c-5565-4629-b4b1-36be77e38c45")
-		(at 40.375 249.375)
+		(at 28.665 249.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C8"
@@ -71034,7 +71363,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "b5d2817f-cc0d-48ac-b5f4-0fe008bb5dcb")
@@ -71066,7 +71395,7 @@
 	(footprint "Module:Arduino_UNO_R3"
 		(layer "B.Cu")
 		(uuid "30c89983-238c-4dd7-920f-129eb0cb3310")
-		(at 59.21 14.21 180)
+		(at 51.06 -10.26 180)
 		(descr "Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino UNO R3")
 		(property "Reference" "A1"
@@ -72016,7 +72345,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3201d7d3-3a80-43e5-b54d-97f191b6b8ab")
-		(at 40.1275 287.375)
+		(at 28.4175 287.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C10"
@@ -72224,7 +72553,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "c925f75a-f5f9-4148-81ec-a1c39b54f7ef")
@@ -72256,7 +72585,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "33d6f967-e6eb-4d6d-a976-23e96040d5d8")
-		(at 59.1275 277.875)
+		(at 47.4175 277.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C10"
@@ -72464,7 +72793,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "6f88fea7-83ab-48db-a294-1a50cfcd8829")
@@ -72496,7 +72825,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3796f32e-3d6e-4c70-87dd-c6fb7b53817a")
-		(at 21.54 220.875)
+		(at 9.83 220.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C7"
@@ -72704,7 +73033,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "4927e27f-ba7a-4567-95e0-2b79ed930d78")
@@ -72736,7 +73065,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "384450d9-dfa9-4707-87fa-162ee8da3463")
-		(at 58.88 296.875)
+		(at 47.17 296.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C11"
@@ -72944,7 +73273,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "2e385420-2c1d-4aeb-8fd4-d0ed0310530d")
@@ -72976,7 +73305,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3b091bbe-94e7-4835-9d2a-3fe7e7e95eee")
-		(at 40.6225 173.375)
+		(at 28.9125 173.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C4"
@@ -73184,7 +73513,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "907d60ab-d0f2-4273-bc43-8bd1cf8652ba")
@@ -73216,7 +73545,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3b3e215b-ecec-4218-a8d7-82baf341b500")
-		(at 40.375 211.375)
+		(at 28.665 211.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C6"
@@ -73424,7 +73753,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "9ff30d7b-c126-461f-99b6-78ea5c2953e6")
@@ -73456,7 +73785,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "55109da5-7b13-4cf6-9131-7ffd1ac067a6")
-		(at 40.375 401.375)
+		(at 28.665 401.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C16"
@@ -73664,7 +73993,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "b56d4368-b794-40ef-8356-8ab66f0d9c86")
@@ -73696,7 +74025,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "58a8bc7c-a47f-4310-b836-b2c296bd72c3")
-		(at 21.375 372.875)
+		(at 9.665 372.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C15"
@@ -73904,7 +74233,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "7bbf4fcf-c9ea-4d17-a514-be291b12b75c")
@@ -73936,7 +74265,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "5d6f047c-08b9-4658-a64f-e41cf333f31c")
-		(at 58.88 372.875)
+		(at 47.17 372.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C15"
@@ -74144,7 +74473,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "bcc967b9-465e-424e-8919-47ceb04e7c0f")
@@ -74176,7 +74505,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "63713ffd-40c4-47a4-b023-eb117584166c")
-		(at 21.375 87.875)
+		(at 9.665 87.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C0"
@@ -74384,7 +74713,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "a7387b22-e20b-44dc-8247-715dfa04f866")
@@ -74416,7 +74745,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "6939eeb1-147a-453b-aaaa-41bbeb2c4ea1")
-		(at 58.88 239.875)
+		(at 47.17 239.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C8"
@@ -74624,7 +74953,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "07bf0c91-e49b-4bc2-b819-f71660a29002")
@@ -74656,7 +74985,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "6a51b20e-2309-4371-8e32-f02dcf7f54f1")
-		(at 40.1275 344.375)
+		(at 28.4175 344.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C13"
@@ -74864,7 +75193,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "2ffe59d0-b078-404b-b594-d7f3b408ca39")
@@ -74896,7 +75225,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "6cd9f40e-032a-47c8-a5cc-c024d1b4b968")
-		(at 21.375 106.875)
+		(at 9.665 106.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C1"
@@ -75104,7 +75433,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "1e4ca699-c0e4-46a9-9eef-95463d24dbdb")
@@ -75136,7 +75465,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "6d8395ca-9170-4b37-bd5f-192ff09a4f0b")
-		(at 58.88 315.875)
+		(at 47.17 315.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C12"
@@ -75344,7 +75673,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "911c3c35-a4d0-4d9b-a966-e5fe4105cfed")
@@ -75376,7 +75705,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7966f051-f40d-499e-bd60-47359dc08b3f")
-		(at 21.54 296.915)
+		(at 9.83 296.79)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C11"
@@ -75584,7 +75913,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "62a4eb11-84b4-4f2a-9b8b-fa107a041389")
@@ -75616,7 +75945,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7a72485a-1407-4ca1-a0fe-0818233071c7")
-		(at 21.54 201.875)
+		(at 9.83 201.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C6"
@@ -75824,7 +76153,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "68d8e350-ebeb-4f82-a086-73866b9efc9b")
@@ -75856,7 +76185,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7b7dea13-0cae-4fa8-8aa1-49f5e8697abd")
-		(at 59.1275 334.875)
+		(at 47.4175 334.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C13"
@@ -76064,7 +76393,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "fa47b4a7-6a90-40ed-b840-6698bf5721a9")
@@ -76096,7 +76425,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7b94efb6-c17c-403d-81ba-3da0af8a92f0")
-		(at 40.1275 382.375)
+		(at 28.4175 382.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C15"
@@ -76304,7 +76633,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "d106f176-943a-4872-aa5c-058c9a80efd7")
@@ -76336,7 +76665,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7baca623-d941-4096-bb2c-9c789d55e8ca")
-		(at 21.54 258.875)
+		(at 9.83 258.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C9"
@@ -76544,7 +76873,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "33357545-7b3e-403c-84b5-943489eda425")
@@ -76576,7 +76905,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7f0c9e5f-b6d3-41fc-b6d0-e3a26eaf2a80")
-		(at 40.375 154.375)
+		(at 28.665 154.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C3"
@@ -76784,7 +77113,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "385d632b-60b1-44be-a0fb-691b337e3c90")
@@ -76816,7 +77145,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7f431918-06ed-4de0-9b38-3792176260d3")
-		(at 59.1275 220.875)
+		(at 47.4175 220.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C7"
@@ -77024,7 +77353,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "3fb2a231-7d5b-4618-a82e-cfde9dd1d05a")
@@ -77056,7 +77385,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "83cd51e7-3d6e-41d9-8669-1bb9f383ddce")
-		(at 21.375 391.875)
+		(at 9.665 391.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C16"
@@ -77264,7 +77593,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "9ebcf893-285a-4e5d-aa76-b3d907beae78")
@@ -77296,7 +77625,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "87bc6e3d-62be-464d-be38-48562c4eb76f")
-		(at 40.1275 306.375)
+		(at 28.4175 306.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C11"
@@ -77504,7 +77833,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "12255fe4-d365-47af-abfc-9203a10fa327")
@@ -77536,7 +77865,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8bfda130-8624-4502-aa3a-0cf02f2b39fd")
-		(at 40.1275 363.375)
+		(at 28.4175 363.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C14"
@@ -77744,7 +78073,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "790db739-236a-4313-9a3f-82d43993fe86")
@@ -77776,7 +78105,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8c8d3d80-7460-4251-84d0-5ddb86bb2540")
-		(at 21.54 144.875)
+		(at 9.83 144.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C3"
@@ -77984,7 +78313,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "9f1ea226-c756-491a-a390-a00e309e95bf")
@@ -78016,7 +78345,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8cdcc945-ef8f-4f6a-b04e-4eb2189141fa")
-		(at 40.1275 325.375)
+		(at 28.4175 325.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C12"
@@ -78224,7 +78553,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "97db8509-3b37-4db4-bb82-d9e913f4a2d3")
@@ -78256,7 +78585,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8d9c7a06-e39c-47ae-a19a-852a645f4a38")
-		(at 59.1275 182.875)
+		(at 47.4175 182.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C5"
@@ -78464,7 +78793,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "c39d08ba-1072-41ec-a603-717fe6c902e1")
@@ -78496,7 +78825,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8e2f5b1e-76c2-4d37-9666-b5f92f41e2d7")
-		(at 59.1275 125.875)
+		(at 47.4175 125.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C2"
@@ -78704,7 +79033,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "042fa214-28db-43bb-90da-8a6959e96d14")
@@ -78736,7 +79065,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8e45ac18-d3fd-4f09-b401-92eb9c137ea1")
-		(at 58.88 201.875)
+		(at 47.17 201.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C6"
@@ -78944,7 +79273,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "7d76f3cf-aefe-4429-94c2-dfce8224934f")
@@ -78976,7 +79305,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "8f5daa17-320a-42a2-b72d-3173978396c7")
-		(at 21.375 334.875)
+		(at 9.665 334.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C13"
@@ -79184,7 +79513,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "559b40c6-0d54-4f32-89c6-c395760ee4f0")
@@ -79213,10 +79542,178 @@
 			)
 		)
 	)
+	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(layer "B.Cu")
+		(uuid "9053cbb3-6508-4868-b81c-0ed9146b50d4")
+		(at 47.5 68.71 -90)
+		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
+		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
+		(property "Reference" "R2"
+			(at 2.54 1.92 90)
+			(layer "B.SilkS")
+			(uuid "27d489b0-5096-41cc-9683-a23b008db727")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Resistor"
+			(at 2.54 -1.92 90)
+			(layer "B.Fab")
+			(uuid "274d1c19-381c-43fa-8d75-b6b27a89c4e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e22341ad-2111-416d-9e59-246032a4ee4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4e5f36aa-d3ac-4a43-8afb-f52386f5b9ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/ed38992b-d326-42d3-9e7e-d987946cc6ed")
+		(sheetname "/")
+		(sheetfile "Chromatic.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 0.62 0.92)
+			(end 4.46 0.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f0ff2558-d2ff-4f8b-be7c-256c04a220cc")
+		)
+		(fp_line
+			(start 0.62 -0.92)
+			(end 4.46 -0.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a145d92b-0fcd-46ed-8513-244a36a871db")
+		)
+		(fp_rect
+			(start -0.95 1.05)
+			(end 6.03 -1.05)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "89c7e05c-da80-461a-afe1-2a6dad6a6108")
+		)
+		(fp_line
+			(start 0 0)
+			(end 0.74 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "de872aae-7404-4db4-b89c-02f908303676")
+		)
+		(fp_line
+			(start 5.08 0)
+			(end 4.34 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ce48db07-96f7-4a1d-849e-fc7b725f52b4")
+		)
+		(fp_rect
+			(start 0.74 0.8)
+			(end 4.34 -0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "B.Fab")
+			(uuid "05b0be17-167b-4160-85a8-9f9c79bfe50f")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 4.915 0 90)
+			(layer "B.Fab")
+			(uuid "51548ab8-5a6c-42e6-a710-ded239e80519")
+			(effects
+				(font
+					(size 0.72 0.72)
+					(thickness 0.108)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 270)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 22 "Row 0")
+			(pintype "passive")
+			(uuid "bbb7089b-b411-473d-a8a2-133847b7b20f")
+		)
+		(pad "2" thru_hole circle
+			(at 5.08 0 270)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 86 "Net-(D_R2C0-K)")
+			(pintype "passive")
+			(uuid "4cf261ee-29ec-496f-9c99-335ac406eadb")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "a35f7181-529c-45ca-899c-ab72f770e82c")
-		(at 40.6225 230.375)
+		(at 28.9125 230.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C7"
@@ -79424,7 +79921,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "4e335885-7d36-473b-86db-2250f4bcd604")
@@ -79456,7 +79953,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "a414a274-a9b0-47d1-9f78-cb1d7c6a4485")
-		(at 59.1275 353.875)
+		(at 47.4175 353.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C14"
@@ -79664,7 +80161,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "cda2f6dc-8b39-474e-b835-e16880ab7cbc")
@@ -79696,7 +80193,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "abdaf71f-eaf5-48c2-82e7-cc730a6aa69e")
-		(at 21.54 315.875)
+		(at 9.83 315.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C12"
@@ -79904,7 +80401,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "a5ba5ade-2a1d-49ed-a469-1123ca3fee16")
@@ -79936,7 +80433,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "be0e9f49-d608-4718-894f-da3049fbc001")
-		(at 59.1275 87.875)
+		(at 47.4175 87.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C0"
@@ -80144,7 +80641,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "b550e93d-5126-416b-a77a-17406d52c574")
@@ -80176,7 +80673,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "ccb8d062-1a73-4806-ae37-a29fed0c1a71")
-		(at 58.88 163.875)
+		(at 47.17 163.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R2C4"
@@ -80384,7 +80881,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 13 "Row 2")
+			(net 86 "Net-(D_R2C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "155b1539-91c8-426b-b096-5d190101a2fd")
@@ -80416,7 +80913,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "d17a292e-5c37-4d55-84ac-5cdee918a384")
-		(at 40.375 268.375)
+		(at 28.665 268.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C9"
@@ -80624,7 +81121,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "fe9f7a53-c4cf-4efb-92a8-25042fb35f97")
@@ -80656,7 +81153,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "daf2ff18-52d5-4f63-8618-ba978b669ef0")
-		(at 21.54 277.875)
+		(at 9.83 277.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C10"
@@ -80864,7 +81361,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "9a0b9828-617b-4873-b911-5f902055f40a")
@@ -80896,7 +81393,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "de2019d6-cc2b-44ca-bf2a-5e962233663e")
-		(at 40.6225 116.375)
+		(at 28.9125 116.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C1"
@@ -81104,7 +81601,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "228ca68d-d0f5-4f43-9077-0b1410e434b6")
@@ -81136,7 +81633,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "e228703b-8f47-47ba-a9c2-c4c79126ca74")
-		(at 40.6225 192.375)
+		(at 28.9125 192.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C5"
@@ -81344,7 +81841,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "77edae74-a3a7-4366-b2de-1d73f340ed77")
@@ -81376,7 +81873,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "edf743eb-464a-4f16-8e5b-56ccbf800baa")
-		(at 21.54 125.875)
+		(at 9.83 125.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C2"
@@ -81584,7 +82081,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "d88af945-adb2-4f95-9f45-a9001589b2a7")
@@ -81616,7 +82113,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "eef99936-436f-45ba-a1dc-d26519da14cf")
-		(at 40.375 97.375)
+		(at 28.665 97.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C0"
@@ -81824,7 +82321,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "0e08e228-e8be-45aa-b12c-8c1ba53e480f")
@@ -81856,7 +82353,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "f3216b75-22e7-4342-99b5-5e273f30bf8f")
-		(at 21.54 239.875)
+		(at 9.83 239.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C8"
@@ -82064,7 +82561,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "faab1ebd-4e29-4e47-bbe9-8e91b3a231f0")
@@ -82096,7 +82593,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "f35b3f2c-8691-4fdc-bcec-e55d2a3b6430")
-		(at 21.54 182.875)
+		(at 9.83 182.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C5"
@@ -82304,7 +82801,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "83cd28b8-4ac7-46bc-8037-3208e46aabba")
@@ -82336,7 +82833,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "fb002e5d-e926-4317-9b65-36e31eb3d6ed")
-		(at 21.54 163.875)
+		(at 9.83 163.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R0C4"
@@ -82544,7 +83041,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 22 "Row 0")
+			(net 84 "Net-(D_R0C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "14a68678-e410-45c7-abf1-adcf378e03a7")
@@ -82576,7 +83073,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "ffba6c96-c5e9-4d9f-9342-fe4e825ca09a")
-		(at 40.6225 135.375)
+		(at 28.9125 135.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D_R1C2"
@@ -82784,7 +83281,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 21 "Row 1")
+			(net 85 "Net-(D_R1C0-K)")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "b0f7e75c-dc8e-4d9f-976b-8cf1f368180f")
@@ -82814,324 +83311,244 @@
 		)
 	)
 	(segment
-		(start 42.585 27.2725)
-		(end 40.21 27.2725)
+		(start 34.435 2.8025)
+		(end 32.06 2.8025)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 0)
 		(uuid "5d1c9321-7cec-4031-8e13-1a29dd18f689")
 	)
 	(segment
-		(start 39.0225 26.085)
-		(end 40.21 27.2725)
+		(start 30.8725 1.615)
+		(end 32.06 2.8025)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 0)
 		(uuid "a8f6d35f-adbb-4e8e-a077-77d851db7498")
 	)
 	(segment
-		(start 59.1275 63.4075)
-		(end 58.19 62.47)
+		(start 50.9775 38.9375)
+		(end 50.04 38)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 13)
 		(uuid "06338d90-735e-4f07-9882-8e354933462a")
 	)
 	(segment
-		(start 59.1275 87.875)
-		(end 59.1275 391.6275)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 13)
-		(uuid "98745849-7bb1-4c45-a3f7-5b389c0330e3")
-	)
-	(segment
-		(start 59.1275 87.875)
-		(end 59.1275 63.4075)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 13)
-		(uuid "b6cb32d7-dc0e-4620-b46e-63d3bab49b55")
-	)
-	(segment
-		(start 59.1275 391.6275)
-		(end 59.375 391.875)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 13)
-		(uuid "66ae0ec8-19b5-409c-9cc5-195d75681815")
-	)
-	(segment
-		(start 40.375 97.375)
-		(end 40.375 401.375)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 21)
-		(uuid "4436c354-dfdc-4078-8d81-8b12059dd173")
-	)
-	(segment
-		(start 40.375 77.745)
-		(end 55.65 62.47)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 21)
-		(uuid "6fa1ba45-8177-442a-b11f-c5a8ed444009")
-	)
-	(segment
-		(start 40.375 97.375)
-		(end 40.375 77.745)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 21)
-		(uuid "95ea7b97-adc2-4aba-9007-7670c43aed13")
-	)
-	(segment
-		(start 21.375 87.875)
-		(end 21.375 64.745)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 22)
-		(uuid "0f87d4ea-10f9-42a9-a7ee-4645a0d8587a")
-	)
-	(segment
-		(start 21.375 64.745)
-		(end 23.65 62.47)
+		(start 13.225 40.275)
+		(end 15.5 38)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 22)
 		(uuid "418d9297-7385-46a4-a31b-24cd4e6f5c5d")
 	)
 	(segment
-		(start 21.375 87.875)
-		(end 21.375 391.875)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 22)
-		(uuid "a3a8a4f5-fdef-45bc-9aa5-f468a22ca551")
-	)
-	(segment
-		(start 61.75 71.25)
-		(end 71.25 71.25)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "0b863aa4-a7b7-4c44-adea-fa4e3deb7d3b")
-	)
-	(segment
-		(start 33.25 71.25)
-		(end 35.625 71.25)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "13d631d0-c78c-4f0d-a624-274223d5dbd2")
-	)
-	(segment
-		(start 33.25 71.25)
-		(end 34.4375 71.25)
+		(start 21.54 71.125)
+		(end 22.7275 71.125)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "278f94b7-3894-4b83-9327-7b14a97dc418")
 	)
 	(segment
-		(start 80.75 71.25)
-		(end 90.25 80.75)
+		(start 69.04 71.125)
+		(end 78.54 80.625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "4312e688-b3f8-47de-b0ee-bb3bbaf38805")
 	)
 	(segment
-		(start 33.25 69.53)
-		(end 26.19 62.47)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "6854ac2e-95da-4202-bed6-dc352d2832ed")
-	)
-	(segment
-		(start 99.75 80.75)
-		(end 109.25 90.25)
+		(start 88.04 80.625)
+		(end 97.54 90.125)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "8275ee16-1e9b-4bbb-a1b0-2ee305475e95")
 	)
 	(segment
-		(start 109.25 90.25)
-		(end 118.75 80.75)
+		(start 97.54 90.125)
+		(end 107.04 80.625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "83c830a4-7ed5-45e3-adcb-22780261e7db")
 	)
 	(segment
-		(start 43.9375 80.75)
-		(end 52.25 80.75)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "8506f5e4-c696-4132-914f-8324629d07f9")
-	)
-	(segment
-		(start 118.75 80.75)
-		(end 128.25 80.75)
+		(start 107.04 80.625)
+		(end 116.54 80.625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "ab5dbe99-5227-4c0c-84eb-a9da03895649")
 	)
 	(segment
-		(start 34.4375 71.25)
-		(end 43.9375 80.75)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "b27f3590-8339-4eab-bfaa-2b9a92cdf8ee")
-	)
-	(segment
-		(start 90.25 80.75)
-		(end 99.75 80.75)
+		(start 78.54 80.625)
+		(end 88.04 80.625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "c00b16c7-5ce9-4ca3-86db-1ada8447d5da")
 	)
 	(segment
-		(start 52.25 80.75)
-		(end 61.75 71.25)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "cbcbe0f8-2c58-4de8-acd6-563474669acf")
-	)
-	(segment
-		(start 33.25 71.25)
-		(end 33.25 69.53)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 25)
-		(uuid "d0f46e0e-d19c-4c10-a511-b857eea010ec")
-	)
-	(segment
-		(start 71.25 71.25)
-		(end 80.75 71.25)
+		(start 59.54 71.125)
+		(end 69.04 71.125)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 25)
 		(uuid "f2f07925-b24b-45ef-9a6f-e0aecc631c70")
 	)
 	(segment
-		(start 35.79 84.177)
-		(end 32.693 84.177)
+		(start 24.08 84.052)
+		(end 20.983 84.052)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 33)
 		(uuid "163a12cf-5b1d-450a-844b-b5a9bb4ee49b")
 	)
 	(segment
-		(start 32.693 84.177)
-		(end 28.995 87.875)
+		(start 20.983 84.052)
+		(end 17.285 87.75)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 33)
 		(uuid "b78eb4c8-5f23-4305-a3b5-5dc611050e2b")
 	)
 	(segment
-		(start 32.693 103.177)
-		(end 28.995 106.875)
+		(start 20.983 103.052)
+		(end 17.285 106.75)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 34)
 		(uuid "984a34fb-a4de-4461-85c3-27246232bb9a")
 	)
 	(segment
-		(start 35.79 103.177)
-		(end 32.693 103.177)
+		(start 24.08 103.052)
+		(end 20.983 103.052)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 34)
 		(uuid "cb670139-112d-40e5-bee0-c31f08dacfa2")
 	)
 	(segment
-		(start 54.79 93.677)
-		(end 51.693 93.677)
+		(start 43.08 93.552)
+		(end 39.983 93.552)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 50)
 		(uuid "0ff17b4c-e273-44ea-a177-351609a1536f")
 	)
 	(segment
-		(start 51.693 93.677)
-		(end 47.995 97.375)
+		(start 39.983 93.552)
+		(end 36.285 97.25)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 50)
 		(uuid "b68e15d4-eaec-4f39-afcd-f990cb6aa031")
 	)
 	(segment
-		(start 51.9405 112.677)
-		(end 48.2425 116.375)
+		(start 40.2305 112.552)
+		(end 36.5325 116.25)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 51)
 		(uuid "a5d6a5bd-a677-4286-8b5e-b937969ee5ac")
 	)
 	(segment
-		(start 54.79 112.677)
-		(end 51.9405 112.677)
+		(start 43.08 112.552)
+		(end 40.2305 112.552)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 51)
 		(uuid "e7fbfe98-0584-4d67-bfef-e07aeeb68712")
 	)
 	(segment
-		(start 73.79 84.177)
-		(end 70.4455 84.177)
+		(start 62.08 84.052)
+		(end 58.7355 84.052)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 66)
 		(uuid "1d875b0b-987a-42d5-94a8-dbbe6c9c052d")
 	)
 	(segment
-		(start 70.4455 84.177)
-		(end 66.7475 87.875)
+		(start 58.7355 84.052)
+		(end 55.0375 87.75)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 66)
 		(uuid "aa52b8dc-682b-43cb-9f91-012ac21fb703")
 	)
 	(segment
-		(start 73.79 103.177)
-		(end 70.4455 103.177)
+		(start 62.08 103.052)
+		(end 58.7355 103.052)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 67)
 		(uuid "4caf5ca4-2a2d-408e-8f5a-04ecd69c51a9")
 	)
 	(segment
-		(start 70.4455 103.177)
-		(end 66.7475 106.875)
+		(start 58.7355 103.052)
+		(end 55.0375 106.75)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 67)
 		(uuid "8c006b04-86c0-41b1-93ce-e5ccc2782425")
 	)
 	(segment
-		(start 70.4455 122.177)
-		(end 66.7475 125.875)
+		(start 58.7355 122.052)
+		(end 55.0375 125.75)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 68)
 		(uuid "935dd13e-a209-47f2-a862-18187d8c2148")
 	)
 	(segment
-		(start 73.79 122.177)
-		(end 70.4455 122.177)
+		(start 62.08 122.052)
+		(end 58.7355 122.052)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 68)
 		(uuid "c24ced0c-ce0a-4956-b6ff-51bce84e7e94")
+	)
+	(segment
+		(start 9.665 87.75)
+		(end 9.665 391.75)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 84)
+		(uuid "a3a8a4f5-fdef-45bc-9aa5-f468a22ca551")
+	)
+	(segment
+		(start 28.665 97.25)
+		(end 28.665 401.25)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 85)
+		(uuid "4436c354-dfdc-4078-8d81-8b12059dd173")
+	)
+	(segment
+		(start 28.665 97.25)
+		(end 28.665 77.62)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 85)
+		(uuid "95ea7b97-adc2-4aba-9007-7670c43aed13")
+	)
+	(segment
+		(start 47.4175 87.75)
+		(end 47.4175 391.5025)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 86)
+		(uuid "98745849-7bb1-4c45-a3f7-5b389c0330e3")
+	)
+	(segment
+		(start 47.4175 391.5025)
+		(end 47.665 391.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "66ae0ec8-19b5-409c-9cc5-195d75681815")
 	)
 	(embedded_fonts no)
 )
