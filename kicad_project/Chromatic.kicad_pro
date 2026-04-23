@@ -462,7 +462,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ScottoKeebs"
+    ]
   },
   "meta": {
     "filename": "Chromatic.kicad_pro",
