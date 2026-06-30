@@ -662,7 +662,7 @@
         "uuid": "59fea2e9-535e-4a9e-9f74-b2ac86e02df1"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "SW_5_R2C12-14,SW_5_R2C17-19,SW_3_R0C12-14,SW_3_R0C17-19,SW_2_R2C12-14,SW_2_R2C17-19,SW_1_R1C12-14,SW_1_R1C17-19,D_R1C12-14,D_R1C17-19,SW_4_R1C12-14,SW_4_R1C17-19,SW_0_R0C12-14,SW_0_R0C17-19,D_R0C12-14,D_R0C17-19,R3-5,D_R2C12-14,D_R2C17-64,U1-2",
     "variants": []
   },
   "sheets": [
